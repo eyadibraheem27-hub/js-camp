@@ -9,11 +9,10 @@ console.log("The Type Is " + typeof NumberOne);
 /*3*/
 console.log(`${NumberOne}${NumberTwo}`); /*Template Literals*/
 /*4*/
-console.log(`The Type Is ${typeof NumberOne}`);
+console.log(`The Type Is${typeof NumberOne}`);
 /*5*/
 console.log(NumberTwo + "\n" + NumberOne);
 /*6*/
-/*7*/
 console.log(`${NumberTwo} 
 ${NumberOne}`);
 
@@ -30,9 +29,9 @@ console.log(
   "web"
 );
 
-let a = 21;
-let b = 20;
- console.log(a + b);
+// let a = 21;
+// let b = 20;
+//  console.log(a + b);
 
  
 let a = 20;

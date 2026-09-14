@@ -16,7 +16,7 @@ console.log("Write Your Code Here"); // 20
 
 
 *table*//
-let names=["ahmed","eyad","mohamed","ali"];
+let names=["ahmed","eyad","mohamed","eslam"];
 console.log(names);
 console.table(names);
 
