@@ -16,10 +16,23 @@ switch (job) {
   case "Developer":
   case "Designer":
     salary = 7000;
-    confirm(` The Salary Is ${salary}`);
+    console.log(` The Salary Is ${salary}`);
     break;
 
   default:
     salary = 4000;
     console.log(` The Salary Is ${salary}`);
+    
+    
+
+bt 
+
+
 }
+
+
+
+
+
+
+                   
